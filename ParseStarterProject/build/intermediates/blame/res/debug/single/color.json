@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/4a80fe2a3b0bd628b031e73e83d431d0ce7d02da/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/4a80fe2a3b0bd628b031e73e83d431d0ce7d02da/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/4a80fe2a3b0bd628b031e73e83d431d0ce7d02da/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/jatwal2052/.android/build-cache/22db5fc13da8e97655f5e6545d63d1d4631bc03b/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/edfc4a2b5caf6c0a8d35c923070a087a5d98850d/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/edfc4a2b5caf6c0a8d35c923070a087a5d98850d/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/4a80fe2a3b0bd628b031e73e83d431d0ce7d02da/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/edfc4a2b5caf6c0a8d35c923070a087a5d98850d/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/edfc4a2b5caf6c0a8d35c923070a087a5d98850d/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/4a80fe2a3b0bd628b031e73e83d431d0ce7d02da/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/jatwal2052/.android/build-cache/4a80fe2a3b0bd628b031e73e83d431d0ce7d02da/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/res/color/abc_hint_foreground_material_dark.xml"
+    }
+]

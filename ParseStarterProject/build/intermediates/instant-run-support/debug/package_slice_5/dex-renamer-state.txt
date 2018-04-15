@@ -1,0 +1,4 @@
+#Thu Jan 18 17:26:31 IST 2018
+base.0=/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

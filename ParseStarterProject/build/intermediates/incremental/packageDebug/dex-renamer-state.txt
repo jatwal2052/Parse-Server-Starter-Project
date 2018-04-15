@@ -1,0 +1,7 @@
+#Thu Jan 18 17:26:31 IST 2018
+base.0=/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6c5ff8f6e11791e1f1acfdb8f5aa6c530e9f8947
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3344f97b9e01e679a0ead6a20ac8bc74c03ff461/classes.dex
+base.1=/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3344f97b9e01e679a0ead6a20ac8bc74c03ff461
+file.0=/home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6c5ff8f6e11791e1f1acfdb8f5aa6c530e9f8947/classes.dex

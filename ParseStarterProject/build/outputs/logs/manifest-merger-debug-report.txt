@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+	package
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/jatwal2052/.android/build-cache/29fbc87b0f88a16ed1675487c21acc152e57e4ac/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/jatwal2052/.android/build-cache/7e4e429d05288f71e6e8e469c5beb9fe0fac81f0/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/jatwal2052/.android/build-cache/2a31259256482946590306262de95e682ff17d1f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/c59996ed354a679bce7f2c137a62f7eff0a53ea0/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/jatwal2052/.android/build-cache/29fbc87b0f88a16ed1675487c21acc152e57e4ac/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/jatwal2052/.android/build-cache/5d3df2e1b18031332826051e43b6efa71b4fa91a/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/c59996ed354a679bce7f2c137a62f7eff0a53ea0/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:17:5-33:19
+MERGED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /home/jatwal2052/.android/build-cache/72722cb7e2f530d856fe73eeeaa1b563bcf01270/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/jatwal2052/.android/build-cache/29fbc87b0f88a16ed1675487c21acc152e57e4ac/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/jatwal2052/.android/build-cache/aca68dfc5d2e489123169517e574d5bd4b6d45d3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/jatwal2052/.android/build-cache/927d2f24b315f4882dcc5cd8ff8e1c78612e3c53/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/jatwal2052/.android/build-cache/65e0cf598ef06b71153b05bffd1cc237024a7ec1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/jatwal2052/.android/build-cache/44ea795cdaca26f1deb021b0296ed2576d7fddb7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/jatwal2052/.android/build-cache/26a55286814666b555baac5ea9e06dde4deae273/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /home/jatwal2052/.android/build-cache/f984c55aa39a0ff695a1178efc24bd7e9adce7fa/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /home/jatwal2052/.android/build-cache/b212d3decfbfbcaee2add3b061c771e853c1be5e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /home/jatwal2052/.android/build-cache/e5307220801f4225321dc4242a00860e4512efaf/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /home/jatwal2052/.android/build-cache/f57eadff513b60f1b9cac4f8d03a369ed583136e/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/jatwal2052/.android/build-cache/6cbda5aebf4bf0faf9e05fdd88e013f18aca45da/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /home/jatwal2052/.android/build-cache/4c72345a444b0a00a403771255f17c243fb80f18/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /home/jatwal2052/.android/build-cache/9062a7dd77a1302f3ef88d21cd6e50d72f37c2a8/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/jatwal2052/.android/build-cache/6c987dc37c0ceba65c10547e504eaa6ad2cb4f26/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/jatwal2052/.android/build-cache/7e4e429d05288f71e6e8e469c5beb9fe0fac81f0/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /home/jatwal2052/.android/build-cache/0aaed39a180750d906004ab4ca1dfdf2fd19c6d7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/jatwal2052/.android/build-cache/2a31259256482946590306262de95e682ff17d1f/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/jatwal2052/.android/build-cache/a03d1e73f1bb6e664bba1e5dfafc602650874fd2/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/jatwal2052/.android/build-cache/5d3df2e1b18031332826051e43b6efa71b4fa91a/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /home/jatwal2052/.android/build-cache/6b7ce092b0578233ddd5502e2b78601d1b8ac39c/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /home/jatwal2052/.android/build-cache/6ee1ec62dca6b213d9b7b4fe9764824130527d0b/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /home/jatwal2052/.android/build-cache/b18285cbc3a42a13b178e2bd1af07643ba352385/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /home/jatwal2052/.android/build-cache/5be9ae1d6b836cc2eb02ce75585d085aa139a595/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/c59996ed354a679bce7f2c137a62f7eff0a53ea0/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/jatwal2052/.android/build-cache/deb3fea1581e2f96239bc47dffe7c0b99024d867/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/jatwal2052/.android/build-cache/a6c69e7f8f8fbcc1fe6fc1a2f028c6a101ee274a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/jatwal2052/.android/build-cache/5b280585d977de9564cbddbc6cf048ae4c54293e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/jatwal2052/.android/build-cache/cab47561c6bd3e3e079641c3af883692ca816e1e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/jatwal2052/.android/build-cache/a3616499d388859540eb46f733cea034da20cd7b/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/jatwal2052/.android/build-cache/c37eea9e29be39311d313b2032c7d424bdd4206b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/jatwal2052/.android/build-cache/c8da6474d51555f0bd58f7a92e23c9126aee9570/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/jatwal2052/.android/build-cache/05bffd4df81aecf06bec6f25b2eed72e657ad54d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/jatwal2052/.android/build-cache/ab6e146ec5099d685043610a99a14b46e579e698/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/jatwal2052/.android/build-cache/843b1dbb507c07f3320bce10ee7dd491aa3ee423/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/jatwal2052/.android/build-cache/f7456a814c70af97286768df44d3ab6e9ce7ec27/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jatwal2052/.android/build-cache/a15118b543af7e1c85d21c82fdef88560dec8909/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.Main2Activity
+ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml:32:19-48
+uses-sdk
+INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:15:5-17:41
+MERGED from [com.google.android.gms:play-services:9.4.0] /home/jatwal2052/.android/build-cache/72722cb7e2f530d856fe73eeeaa1b563bcf01270/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /home/jatwal2052/.android/build-cache/8ce23f0cf64ce4dd593775f03d38050a6a542d81/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/jatwal2052/.android/build-cache/29fbc87b0f88a16ed1675487c21acc152e57e4ac/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /home/jatwal2052/.android/build-cache/c32298ef252d5c80e6223653710d2d02d012ccf7/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/jatwal2052/.android/build-cache/aca68dfc5d2e489123169517e574d5bd4b6d45d3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/jatwal2052/.android/build-cache/927d2f24b315f4882dcc5cd8ff8e1c78612e3c53/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/jatwal2052/.android/build-cache/65e0cf598ef06b71153b05bffd1cc237024a7ec1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/jatwal2052/.android/build-cache/44ea795cdaca26f1deb021b0296ed2576d7fddb7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/jatwal2052/.android/build-cache/26a55286814666b555baac5ea9e06dde4deae273/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /home/jatwal2052/.android/build-cache/f984c55aa39a0ff695a1178efc24bd7e9adce7fa/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /home/jatwal2052/.android/build-cache/b212d3decfbfbcaee2add3b061c771e853c1be5e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /home/jatwal2052/.android/build-cache/e5307220801f4225321dc4242a00860e4512efaf/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /home/jatwal2052/.android/build-cache/f57eadff513b60f1b9cac4f8d03a369ed583136e/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /home/jatwal2052/.android/build-cache/c30caccb7cc4d7d17e404525e69c68a330577030/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /home/jatwal2052/.android/build-cache/1e028de773b76d79303efe9f3602cf05700149b6/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /home/jatwal2052/.android/build-cache/8fb868a0e2da4670a06669ea6eeb8ceadf0e47e0/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /home/jatwal2052/.android/build-cache/4d7864496533ca6af6e35c6830cacdba69a4c891/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /home/jatwal2052/.android/build-cache/1ced7cf4aeecf97043989f2ccf195857d73f7b81/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/jatwal2052/.android/build-cache/6cbda5aebf4bf0faf9e05fdd88e013f18aca45da/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /home/jatwal2052/.android/build-cache/4c72345a444b0a00a403771255f17c243fb80f18/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /home/jatwal2052/.android/build-cache/9062a7dd77a1302f3ef88d21cd6e50d72f37c2a8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/jatwal2052/.android/build-cache/6c987dc37c0ceba65c10547e504eaa6ad2cb4f26/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/jatwal2052/.android/build-cache/7e4e429d05288f71e6e8e469c5beb9fe0fac81f0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /home/jatwal2052/.android/build-cache/0aaed39a180750d906004ab4ca1dfdf2fd19c6d7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/jatwal2052/.android/build-cache/2a31259256482946590306262de95e682ff17d1f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/jatwal2052/.android/build-cache/a03d1e73f1bb6e664bba1e5dfafc602650874fd2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/jatwal2052/.android/build-cache/5d3df2e1b18031332826051e43b6efa71b4fa91a/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /home/jatwal2052/.android/build-cache/6b7ce092b0578233ddd5502e2b78601d1b8ac39c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /home/jatwal2052/.android/build-cache/6ee1ec62dca6b213d9b7b4fe9764824130527d0b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /home/jatwal2052/.android/build-cache/b18285cbc3a42a13b178e2bd1af07643ba352385/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /home/jatwal2052/.android/build-cache/5be9ae1d6b836cc2eb02ce75585d085aa139a595/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /home/jatwal2052/.android/build-cache/943ce4982d1c94dae5269f7cbff2d9b550de98dd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/c59996ed354a679bce7f2c137a62f7eff0a53ea0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/jatwal2052/.android/build-cache/deb3fea1581e2f96239bc47dffe7c0b99024d867/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /home/jatwal2052/.android/build-cache/edfc4a2b5caf6c0a8d35c923070a087a5d98850d/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/jatwal2052/.android/build-cache/a6c69e7f8f8fbcc1fe6fc1a2f028c6a101ee274a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/jatwal2052/.android/build-cache/5b280585d977de9564cbddbc6cf048ae4c54293e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/jatwal2052/.android/build-cache/cab47561c6bd3e3e079641c3af883692ca816e1e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/jatwal2052/.android/build-cache/a3616499d388859540eb46f733cea034da20cd7b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/jatwal2052/.android/build-cache/c37eea9e29be39311d313b2032c7d424bdd4206b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/jatwal2052/.android/build-cache/c8da6474d51555f0bd58f7a92e23c9126aee9570/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/jatwal2052/.android/build-cache/05bffd4df81aecf06bec6f25b2eed72e657ad54d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/jatwal2052/.android/build-cache/ab6e146ec5099d685043610a99a14b46e579e698/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/jatwal2052/.android/build-cache/843b1dbb507c07f3320bce10ee7dd491aa3ee423/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/jatwal2052/.android/build-cache/f7456a814c70af97286768df44d3ab6e9ce7ec27/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.0] /home/jatwal2052/.android/build-cache/ea10487bbcbaba3f4e2478d20feae0ff040ee563/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jatwal2052/.android/build-cache/a15118b543af7e1c85d21c82fdef88560dec8909/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/jatwal2052/Downloads/Parse-Server-Starter-Project-insta/ParseStarterProject/src/main/AndroidManifest.xml
+service#com.parse.PushServiceApi26
+ADDED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:23:9-26:72
+	android:exported
+		ADDED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:25:13-36
+	android:permission
+		ADDED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.parse:parse-android:1.16.4] /home/jatwal2052/.android/build-cache/c6309c803e9a4fd5be563c52d7e6d5b034006c2f/output/AndroidManifest.xml:24:13-54
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/jatwal2052/.android/build-cache/765a86ae23203b5e536806ba148a228d04279ad5/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /home/jatwal2052/.android/build-cache/29fbc87b0f88a16ed1675487c21acc152e57e4ac/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/c59996ed354a679bce7f2c137a62f7eff0a53ea0/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /home/jatwal2052/.android/build-cache/29fbc87b0f88a16ed1675487c21acc152e57e4ac/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/jatwal2052/.android/build-cache/3444d20c377687b18b78ab18699918bff546e723/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/jatwal2052/.android/build-cache/e78e36dc08d586a6b92d18602bbb7be640689b89/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/jatwal2052/.android/build-cache/c01f1635d7d3e8ddbb0c3d998119996cd1122775/output/AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/jatwal2052/.android/build-cache/65e0cf598ef06b71153b05bffd1cc237024a7ec1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/jatwal2052/.android/build-cache/44ea795cdaca26f1deb021b0296ed2576d7fddb7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/jatwal2052/.android/build-cache/c37eea9e29be39311d313b2032c7d424bdd4206b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/jatwal2052/.android/build-cache/c8da6474d51555f0bd58f7a92e23c9126aee9570/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/jatwal2052/.android/build-cache/05bffd4df81aecf06bec6f25b2eed72e657ad54d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/jatwal2052/.android/build-cache/ab6e146ec5099d685043610a99a14b46e579e698/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/jatwal2052/.android/build-cache/843b1dbb507c07f3320bce10ee7dd491aa3ee423/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/jatwal2052/.android/build-cache/f7456a814c70af97286768df44d3ab6e9ce7ec27/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/jatwal2052/.android/build-cache/cde68091ca177de5f4afa06c23f23d4c0e9de958/output/AndroidManifest.xml:26:9-47
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/jatwal2052/.android/build-cache/a105f7b3654c0230799f2a4492df4323de59852f/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/jatwal2052/.android/build-cache/861d4804e5cf7de1c4da1c61880b7824617d18d5/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /home/jatwal2052/.android/build-cache/7e4e429d05288f71e6e8e469c5beb9fe0fac81f0/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/jatwal2052/.android/build-cache/2a31259256482946590306262de95e682ff17d1f/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /home/jatwal2052/.android/build-cache/7e4e429d05288f71e6e8e469c5beb9fe0fac81f0/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/jatwal2052/.android/build-cache/b7a8cfb8ca13a0d3a4566e53643552e1a14ff1e6/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/jatwal2052/.android/build-cache/7eb6d5edf42272459bd022424d002fa114738cf3/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/jatwal2052/.android/build-cache/4e5d165292c2449849c7d4de918a814ede4d4ee1/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/jatwal2052/.android/build-cache/09aec6b64e82f8e704849709d1a917ac8ac5ed99/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/jatwal2052/.android/build-cache/a34ddfc9ebf723ce0a69d01662061c4ea6e33517/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/jatwal2052/.android/build-cache/ceb0c150139b04f01bb18419ee6100ea5026e99c/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/jatwal2052/.android/build-cache/95abfe2d54ca0083c1d5832dbca4410985a524f2/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/jatwal2052/.android/build-cache/a3616499d388859540eb46f733cea034da20cd7b/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/jatwal2052/.android/build-cache/a3616499d388859540eb46f733cea034da20cd7b/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/jatwal2052/.android/build-cache/a3616499d388859540eb46f733cea034da20cd7b/output/AndroidManifest.xml:20:20-65
